@@ -1,0 +1,22 @@
+.nav-container {
+    background-color: aquamarine;
+    height: 2.5rem;
+    display: flex;
+    justify-content:space-between;
+    margin: 0;
+    align-items: center;
+}
+
+.title {
+    font-weight: bold;
+    margin: 10px;
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.logout {
+    margin: 20px;
+}

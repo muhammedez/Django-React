@@ -12,6 +12,10 @@ div {
     color: #333;
     font-size: 24px;
   }
+
+.create-note {
+  margin-left: 10px;
+}
   
   /* Styles for individual notes - assuming your Note component has some container element */
   .note {
